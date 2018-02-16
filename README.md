@@ -6,4 +6,4 @@ Añado texto mas largo
 
 ## Instalación
 
-Para instalar.....
+Para instalar compila
